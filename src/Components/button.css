@@ -1,0 +1,24 @@
+/* Add styles for the scroll-to-top button */
+.scrollToTopBtn {
+    position: fixed; /* Make the button a fixed element */
+    bottom: 20px; /* Adjust the distance from the bottom as desired */
+    right: 20px; /* Adjust the distance from the right as desired */
+    z-index: 99;
+    border: none;
+    outline: none;
+    background-color: #ff0000;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    padding: 10px 20px;
+    border-radius: 50%;
+    display: none;
+    font-weight: bold;
+    font-size: xx-large;
+    height: 70px;
+    width: 70px;
+  }
+  
+  /* Show the button when it's visible */
+  .scrollToTopBtn.visible {
+    display: block;
+  }

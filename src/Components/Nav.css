@@ -1,0 +1,242 @@
+.btn0 {
+color: white;
+background-color: black; /* Remove single quotes */
+height: 60px;
+width: 130px;
+cursor: pointer;
+}
+
+.btn78 {
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 30px;
+  color: black;
+  background-color: #bababa; /* Remove single quotes */
+  height: 60px;
+  width: 130px;
+  cursor: pointer;
+}
+
+.btn3 {
+  border: 1px solid white;
+  border-radius: 15px;
+  color: white;
+  background-color: black; /* Remove single quotes */
+  height: 40px;
+  width: 190px;
+  cursor: pointer;
+  float: left;
+}
+
+.op {
+margin-top: 10px;
+}
+
+.pop {
+padding: 25px;
+margin-left: 20px;
+margin-right: 25px;
+font-size: 15px;
+}
+
+.mus {
+background-color: black;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.btn1 {
+  background-color: black;
+  border-radius: 15px;
+  color: white;
+}
+
+.btn2 {
+border: none;
+height: 50px;
+width: 180px;
+color: white;
+background-color: rgb(255, 0, 0);
+}
+
+.hover-shadow {
+color: skyblue;
+font-size: 14px;
+text-decoration: none;
+transition: box-shadow 0.3s ease; /* Add a smooth transition effect */
+}
+
+.hover-shadow:hover {
+color: white;
+box-shadow: 0px 0px 20px rgba(2, 186, 247, 0.5); /* Equal shadow on all sides on hover */
+}/* Apply styles to the modal container */
+.modal {
+width: 50%;
+display: block;
+position: fixed;
+top: 50%;  /* Move the modal down by half of its height */
+left: 50%; /* Move the modal right by half of its width */
+transform: translate(-50%, -50%); /* Center the modal horizontally and vertically */
+/* Add other styles for modal container */
+}
+
+/* Apply styles to the modal content */
+.modal-content {
+background-color: #000000;
+/* Add styles for the modal content */
+padding: 20px;
+}
+
+/* Apply styles to the close button */
+.close {
+/* Add styles for the close button */
+position: absolute;
+top: 5px;
+right: 10px;
+cursor: pointer;
+font-size: 40px;
+color: red;
+}
+
+.das{
+background-color: red;
+color: white;
+height: 40px;
+width: 100px;
+}
+
+/* Style the label and input pairs for a neat layout */
+label {
+color: white;
+display: block;
+margin-bottom: 10px;
+font-weight: bold;
+}
+
+.gaali {
+  color: rgb(81, 62, 62);
+  font-weight: bold;
+  }
+
+input{
+width: 50%; /* Make inputs take the full width of their container */
+padding: 5px;
+margin-bottom: 10px;
+border-radius: 10px;
+}
+
+
+/* Add these styles to your CSS */
+.modal1 {
+    position: fixed;
+    top: 20px; /* Adjust top position as needed */
+    right: 20px; /* Adjust right position as needed */
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    z-index: 1000;
+  }
+  
+  .top-right-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+  
+  .kart{
+    background-color: #000000;
+    color: white;
+    border-radius: 35px;
+    transition: 0.3s;
+  }
+
+  .kart:hover {
+    transform: scale(1.05);
+  }
+
+.sorry{
+  background-color: rgb(255, 255, 255);
+}
+
+.leo{
+  margin-top: 33px;
+}
+
+.jailer {
+  margin-top: 15px;
+  margin-right: 40px;
+}
+
+.dada {
+  background-color: #94A684;
+}
+
+.dada0 {
+  background-color: #AEC3AE;
+}
+
+.dada00 {
+  background-color: #E4E4D0
+}
+
+.dada000{
+  background-color: #FFEEF4;
+}
+
+.dada1{
+  border-radius: 40px;
+  width: 450px;
+}
+
+.mag{
+  transition: transform 0.2s;
+}
+
+.mag:hover {
+  transform: scale(1.05);
+}
+
+.bgh {
+  background: linear-gradient(to left, #AEC3AE, white);
+}
+
+.bgh1 {
+  background: linear-gradient(to left, #96B6C5, white);
+}
+
+.bgh2 {
+  background: linear-gradient(to left, #F39F5A, white);
+}
+
+.bgh3 {
+  background: linear-gradient(to left, #AE445A, white);
+}
+
+.bgh7 {
+  background: linear-gradient(to right, #9A9483, white);
+}
+
+.bgh6 {
+  background: linear-gradient(to left, #AAA492, white);
+}
+
+.bgh5 {
+  background: linear-gradient(to right, #C7BEA2, white);
+}
+
+.bgh4 {
+  background: linear-gradient(to left, #E5DCC3, white);
+}
+
+.mag1{
+  transition: transform 0.2s;
+}
+
+.mag1:hover {
+  transform: scale(1.05);
+}
+
+.vikram {
+  width: 100%;
+}
